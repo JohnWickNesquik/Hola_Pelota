@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\Feli22\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "C:\Users\Feli22\Desktop\UNIAT ING PROGRAMACION VIDEOJUEGOS\Semestre V\Simulaciones de Fisica\Hola_Pelota" -B "C:\Users\Feli22\Desktop\UNIAT ING PROGRAMACION VIDEOJUEGOS\Semestre V\Simulaciones de Fisica\Hola_Pelota\cmake-build-debug-visual-studio"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Feli22/Desktop/UNIAT ING PROGRAMACION VIDEOJUEGOS/Semestre V/Simulaciones de Fisica/Hola_Pelota/cmake-build-debug-visual-studio

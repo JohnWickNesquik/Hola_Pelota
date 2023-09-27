@@ -1,0 +1,3 @@
+C:/Users/Feli22/Desktop/UNIAT ING PROGRAMACION VIDEOJUEGOS/Semestre V/Simulaciones de Fisica/Hola_Pelota/cmake-build-debug/CMakeFiles/Hola_Pelota.dir
+C:/Users/Feli22/Desktop/UNIAT ING PROGRAMACION VIDEOJUEGOS/Semestre V/Simulaciones de Fisica/Hola_Pelota/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Feli22/Desktop/UNIAT ING PROGRAMACION VIDEOJUEGOS/Semestre V/Simulaciones de Fisica/Hola_Pelota/cmake-build-debug/CMakeFiles/rebuild_cache.dir
